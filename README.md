@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 - 🔌 Interesse em eletrônica e hardware  
-- 💻 Aprendendo programação (C, C# e Web)  
+- 💻 Programação básica em C, C# e desenvolvimento Web
 - 🛠️ Experiência com ESP32, Arduino, Multímetro, Oscilocópio
 
 ---
@@ -23,3 +23,6 @@
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/luizfbrito
 - GitHub: https://github.com/luizfelipe28-gif
+
+## 📄 Currículo
+- https://github.com/luizfelipe28-gif/luizfelipe28-gif/blob/main/curriculoluizfelipe_.pdf
