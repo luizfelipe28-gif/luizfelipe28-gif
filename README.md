@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Felipe
 
-<!--
-**luizfelipe28-gif/luizfelipe28-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação - PUC Minas  
+⚡ Técnico em Eletroeletrônica - CEFET-MG
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔌 Interesse em eletrônica e hardware  
+- 💻 Aprendendo programação (C, C# e Web)  
+- 🛠️ Experiência com ESP32, Arduino, Multímetro, Oscilocópio
+
+---
+
+## 🧰 Tecnologias
+- ⚡ ESP32 | Arduino  
+- 🔧 Eletrônica digital  
+- 💻 C | C#  
+- 🌐 HTML | CSS  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/luizfbrito
+- GitHub: https://github.com/luizfelipe28-gif
